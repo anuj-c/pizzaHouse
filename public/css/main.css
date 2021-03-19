@@ -1,0 +1,29 @@
+.content {
+    position: relative;
+    text-align: center;
+}
+.content img {
+    margin-top: 10vh;
+    max-width: 500px;
+}
+.content .title{
+    font-size: 50px;
+}
+footer{
+    background:#eee;
+}
+.foot{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    margin-top: 20px;
+}
+.jumbotron{
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 10px;
+}
+.pizzaOrder img{
+    margin-right: 50px;
+    width: 10%;
+}
